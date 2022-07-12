@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/daily-goal-setter/static/css/main.eb0363ae.chunk.css",
+    "main.js": "/daily-goal-setter/static/js/main.483f3d14.chunk.js",
+    "main.js.map": "/daily-goal-setter/static/js/main.483f3d14.chunk.js.map",
+    "runtime-main.js": "/daily-goal-setter/static/js/runtime-main.5a7c75f2.js",
+    "runtime-main.js.map": "/daily-goal-setter/static/js/runtime-main.5a7c75f2.js.map",
+    "static/js/2.d5792897.chunk.js": "/daily-goal-setter/static/js/2.d5792897.chunk.js",
+    "static/js/2.d5792897.chunk.js.map": "/daily-goal-setter/static/js/2.d5792897.chunk.js.map",
+    "index.html": "/daily-goal-setter/index.html",
+    "static/css/main.eb0363ae.chunk.css.map": "/daily-goal-setter/static/css/main.eb0363ae.chunk.css.map",
+    "static/js/2.d5792897.chunk.js.LICENSE.txt": "/daily-goal-setter/static/js/2.d5792897.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a7c75f2.js",
+    "static/js/2.d5792897.chunk.js",
+    "static/css/main.eb0363ae.chunk.css",
+    "static/js/main.483f3d14.chunk.js"
+  ]
+}
